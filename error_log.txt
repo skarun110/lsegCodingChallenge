@@ -1,0 +1,23 @@
+Failed to create user alice@example.com: <HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;example&#46;com&#47;api&#47;create&#95;user" on this server.<P>
+Reference&#32;&#35;18&#46;88f6d517&#46;1745790351&#46;6a54e751
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;88f6d517&#46;1745790351&#46;6a54e751</P>
+</BODY>
+</HTML>
+
+Skipping user due to missing required fields: {'name': 'Bob', 'email': '', 'role': 'user'}
+Failed to create user charlie@example.com: <HTML><HEAD>
+<TITLE>Access Denied</TITLE>
+</HEAD><BODY>
+<H1>Access Denied</H1>
+ 
+You don't have permission to access "http&#58;&#47;&#47;example&#46;com&#47;api&#47;create&#95;user" on this server.<P>
+Reference&#32;&#35;18&#46;91f6d517&#46;1745790352&#46;943f76f0
+<P>https&#58;&#47;&#47;errors&#46;edgesuite&#46;net&#47;18&#46;91f6d517&#46;1745790352&#46;943f76f0</P>
+</BODY>
+</HTML>
+
